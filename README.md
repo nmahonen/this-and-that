@@ -1,5 +1,6 @@
 # this-and-that
-Collection of things to show
+Collection of things to show.
+
 This repository contains some examples of scripts or prototypes or other projects of mine (or where I have been part of).
 Here in this README.md you can find some prototypes made with Figma. Other files contain some applications or examples of
 codes written with for example React or Python.
