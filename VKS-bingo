@@ -1,6 +1,7 @@
 Here is a link for Viki & Köpi Show Bingo. I am a big fan of the show
-and made this application fust for fun:
+and made this buzzword-bingo application fust for fun:
 https://vks-bingo.web.app/
 
-Here is the original repository for the code:
+It is basic HTML-page and published with Google Firebase.
+The original repository for the code is public and is found here:
 https://github.com/nmahonen/VKSBingo
